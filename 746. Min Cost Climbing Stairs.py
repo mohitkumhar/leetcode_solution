@@ -1,21 +1,12 @@
-class Solution(object):
-    def minCostClimbingStairs(self, cost):
-        """
-        :type cost: List[int]
-        :rtype: int
-        """
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
 
-        n = len(cost)
+data = sns.load_dataset('tips').head(20)
 
-        if n == 0 or n == 1:
-            return 0
+# print(data.to_string())
 
-        prev1 = cost[1]
-        prev2 = cost[0]
+sns.catplot(x='tip', y='size', data=data)
 
-        for i in range(2, n):
-            current = cost[i] + min(prev1, prev2)
-            prev2 = prev1
-            prev1 = current
 
-        return min(prev1, prev2)
+
