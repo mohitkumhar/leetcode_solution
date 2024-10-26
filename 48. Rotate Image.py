@@ -11,10 +11,3 @@ class Solution:
        
         for i in matrix:
             i.reverse()
-
-
-
-
-                
-
-        
