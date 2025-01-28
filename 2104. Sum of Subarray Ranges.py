@@ -15,3 +15,4 @@ class Solution:
                 add += (current_max - current_min)
 
         return add
+    
