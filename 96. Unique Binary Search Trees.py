@@ -7,4 +7,3 @@ class Solution:
             for root in range(1, n + 1):
                 dp[nodes] += dp[root - 1] * dp[nodes - root]
         return dp[n]
-2
