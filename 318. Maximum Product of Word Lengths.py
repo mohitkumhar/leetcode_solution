@@ -9,7 +9,7 @@ class Solution:
 
         max_len = 0
 
-        for i in range(len(wodfrds)):
+        for i in range(len(words)):
             for j in range(i + 1, len(words)):
                 if words_match(words[i], words[j]):
                     max_len = max(max_len, len(words[i]) * len(words[j]))
