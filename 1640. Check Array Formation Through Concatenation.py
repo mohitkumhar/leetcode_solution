@@ -1,15 +1,11 @@
 class Solution:
-    def canFormArray(self, arr: List[int], pieces: List[List[int]]) -> bool:
-        map = {}
-        for piece in pieces:
-            map[piece[0]] = piece
-        i = 0
-        while i < len(arr):
-            if arr[i] not in map:
-                return False
-            
-            for val in map[arr[i]]:
-                if val != arr[i]:
-                    return False    
-                i += 1
-        return True
+    def hasIncreasingSubarrays(self, nums: List[int], k: int) -> bool:
+        count = 1
+        for i in range(1, len(nums)):
+            if nums[i] > nums[i - 1]:
+                count += 1
+            else:
+                count = 1
+            if count >= k:
+                return True
+        return False
