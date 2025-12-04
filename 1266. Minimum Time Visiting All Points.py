@@ -6,6 +6,6 @@ class Solution:
             x1, y1 = points[i]
             x2, y2 = points[i+1]
 
-            dis +=g max(abs(x1-x2), abs(y1-y2))
+            dis += max(abs(x1-x2), abs(y1-y2))
 
         return dis
