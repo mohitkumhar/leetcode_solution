@@ -43,6 +43,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
+| [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -72,6 +73,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -82,6 +84,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Counting
