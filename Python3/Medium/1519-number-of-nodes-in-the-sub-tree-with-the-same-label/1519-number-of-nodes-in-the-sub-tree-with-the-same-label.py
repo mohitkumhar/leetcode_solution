@@ -1,6 +1,6 @@
 class Solution:
     def countSubTrees(self, n: int, edges: List[List[int]], labels: str) -> List[int]:
-        matrix = {i: [] for i in range(n)}
+        matrix = {i:[] for i in range(n)}
 
         for u, v in edges:
             matrix[u].append(v)
@@ -8,22 +8,22 @@ class Solution:
 
         def dfs(node, parent):
             freq = {}
-            if labels[node] not in freq:
-                freq[labels[node]] = 0
-            freq[labels[node]] += 1
+            freq[labels[node]] = freq.get(labels[node], 0) + 1
 
             for child in matrix.get(node, []):
                 if child == parent:
                     continue
+                
+                label_elements_in_child = dfs(child, node)
 
-                element_from_child = dfs(child, node)
-
-                for key, value in element_from_child.items():
+                for key, value in label_elements_in_child.items():
                     freq[key] = freq.get(key, 0) + value
 
-            ans[node] = freq[labels[node]]
+                
+            ans[node] += freq[labels[node]]
             return freq
-
+        
         ans = [0] * n
         dfs(0, -1)
+
         return ans
