@@ -1,18 +1,17 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
         
-        queue = deque([(0, [0])])
         result = []
         n = len(graph)
 
-        while queue:
-            node, path = queue.popleft()
+        def dfs(node, src, dst, path):
+            if node == dst:
+                result.append(path[:])
 
-            if node == n-1:
-                result.append(path)
-                continue
-            
             for nei in graph[node]:
-                queue.append((nei, path + [nei]))
+                path.append(nei)
+                dfs(nei, src, dst, path)
+                path.pop()
 
+        dfs(0, 0, n-1, [0])
         return result
