@@ -54,6 +54,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +115,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
