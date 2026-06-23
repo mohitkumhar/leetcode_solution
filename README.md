@@ -50,6 +50,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -91,6 +92,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -112,6 +114,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
