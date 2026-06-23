@@ -42,6 +42,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -72,6 +73,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -87,6 +89,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
@@ -112,6 +115,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
