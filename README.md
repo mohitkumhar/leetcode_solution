@@ -90,6 +90,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
