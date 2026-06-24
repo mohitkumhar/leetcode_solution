@@ -128,6 +128,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
