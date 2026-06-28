@@ -40,6 +40,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -81,6 +82,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
