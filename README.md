@@ -40,6 +40,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -214,4 +215,12 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->
