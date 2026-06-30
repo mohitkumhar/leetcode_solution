@@ -93,6 +93,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -105,6 +106,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 ## Depth-First Search
@@ -225,4 +227,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
