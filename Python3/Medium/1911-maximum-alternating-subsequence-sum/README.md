@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-alternating-subsequence-sum">1911. Maximum Alternating Subsequence Sum</a></h2><h3>Medium</h3><hr><p>The <strong>alternating sum</strong> of a <strong>0-indexed</strong> array is defined as the <strong>sum</strong> of the elements at <strong>even</strong> indices <strong>minus</strong> the <strong>sum</strong> of the elements at <strong>odd</strong> indices.</p>
+<h2><a href="https://leetcode.com/problems/maximum-alternating-subsequence-sum/">1911. Maximum Alternating Subsequence Sum</a></h2><h3>Medium</h3><hr><p>The <strong>alternating sum</strong> of a <strong>0-indexed</strong> array is defined as the <strong>sum</strong> of the elements at <strong>even</strong> indices <strong>minus</strong> the <strong>sum</strong> of the elements at <strong>odd</strong> indices.</p>
 
 <ul>
 	<li>For example, the alternating sum of <code>[4,2,5,3]</code> is <code>(4 + 5) - (2 + 3) = 4</code>.</li>
