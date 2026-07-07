@@ -102,6 +102,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
 ## Hash Table
@@ -229,6 +230,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
