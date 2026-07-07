@@ -38,6 +38,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1288-remove-covered-intervals/) | Medium |
@@ -96,6 +97,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -247,11 +249,13 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
