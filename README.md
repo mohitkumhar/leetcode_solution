@@ -101,6 +101,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
@@ -133,6 +134,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
