@@ -36,6 +36,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
+| [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -90,6 +91,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
+| [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -109,6 +111,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0132-palindrome-partitioning-ii/) | Hard |
+| [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
