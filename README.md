@@ -41,6 +41,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
@@ -121,6 +122,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
