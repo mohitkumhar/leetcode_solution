@@ -67,6 +67,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -166,6 +167,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
@@ -245,6 +247,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -298,6 +301,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -308,6 +312,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0070-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -361,6 +366,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
 ## Two Pointers
@@ -380,9 +386,11 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
