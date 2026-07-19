@@ -37,6 +37,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0046-permutations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
@@ -124,6 +125,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
@@ -344,6 +346,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
