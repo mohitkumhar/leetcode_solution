@@ -36,6 +36,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0046-permutations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
@@ -122,6 +123,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
@@ -289,6 +291,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
