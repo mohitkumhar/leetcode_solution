@@ -214,6 +214,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -359,6 +360,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
