@@ -198,6 +198,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0131-palindrome-partitioning](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
+| [0344-reverse-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
@@ -406,6 +407,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
