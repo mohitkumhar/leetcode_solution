@@ -55,6 +55,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
@@ -178,6 +179,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
@@ -280,6 +282,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0131-palindrome-partitioning/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
 ## Tree
@@ -422,6 +425,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
