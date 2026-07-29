@@ -202,6 +202,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -233,6 +234,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1061-lexicographically-smallest-equivalent-string/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
@@ -299,6 +301,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -318,6 +321,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
+| [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1219-path-with-maximum-gold/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
