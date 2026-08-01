@@ -98,6 +98,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -220,6 +221,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
@@ -290,6 +292,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +310,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
 ## Counting
@@ -487,6 +491,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
 ## Two Pointers
