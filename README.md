@@ -54,6 +54,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
+| [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -210,6 +211,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0140-word-break-ii/) | Hard |
+| [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
@@ -412,6 +414,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
@@ -467,6 +470,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
+| [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -497,6 +501,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -525,6 +530,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
