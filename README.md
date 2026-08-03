@@ -84,6 +84,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1288-remove-covered-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
@@ -198,6 +199,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -428,6 +430,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0679-24-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0679-24-game/) | Hard |
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -609,4 +612,13 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
