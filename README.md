@@ -34,6 +34,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0040-combination-sum-ii/) | Medium |
@@ -209,6 +210,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
