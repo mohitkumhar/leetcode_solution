@@ -46,6 +46,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -149,6 +150,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0054-spiral-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
@@ -221,6 +223,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0001-two-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
