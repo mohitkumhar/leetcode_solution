@@ -144,6 +144,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +312,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3310-remove-methods-from-project/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +343,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
