@@ -476,6 +476,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -673,4 +674,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
