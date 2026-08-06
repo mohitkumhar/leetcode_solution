@@ -78,6 +78,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0679-24-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0679-24-game/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
@@ -128,6 +129,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
@@ -159,6 +161,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
@@ -298,6 +301,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
@@ -317,6 +321,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -397,6 +402,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -540,6 +546,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -642,6 +649,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -659,4 +667,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
