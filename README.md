@@ -55,6 +55,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
+| [0118-pascals-triangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0136-single-number/) | Easy |
@@ -191,6 +192,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0070-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
+| [0118-pascals-triangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0132-palindrome-partitioning-ii/) | Hard |
