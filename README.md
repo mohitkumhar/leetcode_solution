@@ -229,6 +229,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -309,6 +310,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -531,6 +533,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
@@ -601,6 +604,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
