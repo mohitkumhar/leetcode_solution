@@ -58,6 +58,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -565,6 +566,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
@@ -625,6 +627,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0283-move-zeroes/) | Easy |
