@@ -291,6 +291,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3731-find-missing-elements/) | Easy |
@@ -336,6 +337,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -611,6 +613,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
