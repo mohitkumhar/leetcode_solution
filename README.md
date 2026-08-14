@@ -40,6 +40,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0018-4sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
@@ -624,6 +625,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
