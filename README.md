@@ -93,6 +93,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -639,6 +640,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
