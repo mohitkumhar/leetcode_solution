@@ -118,6 +118,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -647,6 +648,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0704-binary-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
