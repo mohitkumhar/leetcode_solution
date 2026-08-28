@@ -287,6 +287,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0140-word-break-ii/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
@@ -704,6 +705,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0125-valid-palindrome/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -840,6 +842,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0203-remove-linked-list-elements/) | Easy |
 ## Design
 | Problem Name | Difficulty |
