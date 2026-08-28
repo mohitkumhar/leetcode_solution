@@ -573,6 +573,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
@@ -705,6 +706,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0283-move-zeroes/) | Easy |
@@ -772,6 +774,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0020-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/C/Easy/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
+| [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
@@ -842,6 +845,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0203-remove-linked-list-elements/) | Easy |
 ## Design
