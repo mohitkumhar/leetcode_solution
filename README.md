@@ -368,6 +368,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -590,6 +591,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -709,6 +711,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
