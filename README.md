@@ -135,6 +135,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -611,6 +612,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
