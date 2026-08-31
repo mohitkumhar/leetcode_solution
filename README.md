@@ -136,6 +136,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -703,6 +704,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
