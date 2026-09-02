@@ -57,6 +57,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -205,6 +206,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0063-unique-paths-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
@@ -691,6 +693,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0033-search-in-rotated-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0162-find-peak-element/) | Medium |
