@@ -388,6 +388,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1392-longest-happy-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -835,6 +836,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -964,6 +966,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/C/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
