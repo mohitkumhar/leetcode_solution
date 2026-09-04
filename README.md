@@ -298,6 +298,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
@@ -350,6 +351,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -578,6 +580,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0002-add-two-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
