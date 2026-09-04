@@ -351,6 +351,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
