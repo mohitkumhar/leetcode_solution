@@ -380,6 +380,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1392-longest-happy-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -579,6 +580,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1140-stone-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -639,6 +641,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
