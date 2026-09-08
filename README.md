@@ -1006,4 +1006,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1587-bank-account-summary-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
 <!---LeetCode Topics End-->
