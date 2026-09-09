@@ -632,6 +632,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Recursion
