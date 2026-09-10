@@ -184,6 +184,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Breadth-First Search
@@ -246,6 +247,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +489,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
