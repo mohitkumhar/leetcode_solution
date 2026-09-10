@@ -385,6 +385,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
@@ -811,6 +812,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0283-move-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
