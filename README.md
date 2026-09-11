@@ -583,6 +583,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -598,6 +599,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1140-stone-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1140-stone-game-ii/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
@@ -792,6 +794,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0704-binary-search/) | Easy |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -979,6 +982,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -989,6 +993,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Algorithm X
