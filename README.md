@@ -168,6 +168,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -354,6 +355,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -658,6 +660,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,6 +675,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
