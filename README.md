@@ -136,6 +136,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1539-kth-missing-positive-number/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -613,6 +614,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1140-stone-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1140-stone-game-ii/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1854-maximum-population-year](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1854-maximum-population-year/) | Easy |
 | [1943-describe-the-painting](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1943-describe-the-painting/) | Medium |
@@ -709,6 +711,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -751,6 +754,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1288-remove-covered-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
