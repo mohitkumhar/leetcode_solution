@@ -387,6 +387,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3731-find-missing-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +456,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
