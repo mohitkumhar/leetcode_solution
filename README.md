@@ -1122,6 +1122,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Binary Tree
