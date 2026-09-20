@@ -1128,6 +1128,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1068-product-sales-analysis-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
