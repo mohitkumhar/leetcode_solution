@@ -1123,6 +1123,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0197-rising-temperature](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
