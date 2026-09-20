@@ -1125,6 +1125,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0595-big-countries](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
+| [1683-invalid-tweets](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
