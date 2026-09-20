@@ -1125,6 +1125,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
