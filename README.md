@@ -1131,6 +1131,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Binary Tree
