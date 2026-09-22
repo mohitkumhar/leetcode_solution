@@ -1127,6 +1127,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
