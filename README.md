@@ -117,6 +117,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0956-tallest-billboard/) | Hard |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0999-available-captures-for-rook/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -368,6 +369,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0560-subarray-sum-equals-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
@@ -545,6 +547,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -836,6 +839,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
