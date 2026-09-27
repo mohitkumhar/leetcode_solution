@@ -1178,4 +1178,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
