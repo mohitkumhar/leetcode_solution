@@ -1165,6 +1165,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Medium/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/mohitkumhar/leetcode_solution/tree/main/MySQL/Easy/0577-employee-bonus/) | Easy |
