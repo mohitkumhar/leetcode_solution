@@ -92,6 +92,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0377-combination-sum-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0436-find-right-interval](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0436-find-right-interval/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
@@ -312,6 +313,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0377-combination-sum-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
@@ -858,6 +860,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0413-arithmetic-slices](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0413-arithmetic-slices/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
