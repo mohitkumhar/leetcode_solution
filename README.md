@@ -456,6 +456,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0761-special-binary-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0761-special-binary-string/) | Hard |
 | [0796-rotate-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0796-rotate-string/) | Easy |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
+| [0856-score-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
@@ -1026,6 +1027,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
+| [0856-score-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
@@ -1166,6 +1168,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0020-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/C/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
