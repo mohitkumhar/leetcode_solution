@@ -303,6 +303,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0070-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0119-pascals-triangle-ii/) | Easy |
@@ -447,6 +448,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0068-text-justification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
+| [0087-scramble-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0131-palindrome-partitioning/) | Medium |
