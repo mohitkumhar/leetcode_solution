@@ -149,6 +149,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
@@ -356,6 +357,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
@@ -496,6 +498,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
