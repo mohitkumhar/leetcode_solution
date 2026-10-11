@@ -195,6 +195,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3033-modify-the-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3033-modify-the-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -371,6 +372,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2305-fair-distribution-of-cookies](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
@@ -845,6 +847,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -1081,12 +1084,14 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
