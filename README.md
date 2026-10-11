@@ -299,6 +299,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
@@ -446,6 +447,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
@@ -788,6 +790,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0203-remove-linked-list-elements/) | Easy |
