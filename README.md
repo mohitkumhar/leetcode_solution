@@ -361,6 +361,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1402-reducing-dishes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
+| [1416-restore-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1416-restore-the-array/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
@@ -509,6 +510,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1416-restore-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1416-restore-the-array/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
