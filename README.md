@@ -789,6 +789,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -864,6 +865,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
