@@ -219,6 +219,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -449,6 +450,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -923,6 +925,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3731-find-missing-elements/) | Easy |
