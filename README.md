@@ -401,6 +401,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
@@ -477,6 +478,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0067-add-binary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0115-distinct-subsequences/) | Hard |
@@ -937,6 +939,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0413-arithmetic-slices](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0413-arithmetic-slices/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
