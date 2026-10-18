@@ -83,6 +83,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
@@ -409,6 +410,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0205-isomorphic-strings/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
@@ -941,6 +943,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0413-arithmetic-slices/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
