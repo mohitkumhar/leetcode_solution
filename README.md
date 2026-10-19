@@ -151,6 +151,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1539-kth-missing-positive-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
@@ -377,6 +378,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -594,6 +596,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1061-lexicographically-smallest-equivalent-string/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -674,6 +677,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Topological Sort
@@ -711,6 +715,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
 | [0761-special-binary-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0761-special-binary-string/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -790,6 +795,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -839,6 +845,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0140-word-break-ii/) | Hard |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1082,6 +1089,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -1325,6 +1333,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -1351,4 +1360,12 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2444-count-subarrays-with-fixed-bounds/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
