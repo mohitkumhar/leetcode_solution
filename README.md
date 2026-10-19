@@ -544,6 +544,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitkumhar/leetcode_solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -758,6 +759,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1854-maximum-population-year](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1854-maximum-population-year/) | Easy |
 | [1943-describe-the-painting](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1943-describe-the-painting/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2381-shifting-letters-ii/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2536-increment-submatrices-by-one/) | Medium |
@@ -971,6 +973,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1695-maximum-erasure-value/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1025,6 +1028,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1901-find-a-peak-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1970-last-day-where-you-can-still-cross/) | Hard |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
