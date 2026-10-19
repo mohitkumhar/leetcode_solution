@@ -121,6 +121,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0875-koko-eating-bananas](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0879-profitable-schemes/) | Hard |
+| [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0956-tallest-billboard/) | Hard |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
@@ -429,6 +430,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
+| [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
@@ -750,6 +752,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0713-subarray-product-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
+| [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1140-stone-game-ii/) | Medium |
@@ -967,6 +970,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
