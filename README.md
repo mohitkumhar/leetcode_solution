@@ -175,6 +175,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1995-count-special-quadruplets/) | Easy |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -924,6 +925,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1943-describe-the-painting](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1943-describe-the-painting/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
@@ -1014,6 +1016,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1970-last-day-where-you-can-still-cross/) | Hard |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
