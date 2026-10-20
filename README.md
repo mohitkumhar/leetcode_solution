@@ -184,6 +184,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2090-k-radius-subarray-averages](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
@@ -992,6 +993,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2090-k-radius-subarray-averages/) | Medium |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
