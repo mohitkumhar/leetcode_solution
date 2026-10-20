@@ -430,6 +430,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -513,6 +514,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
+| [0567-permutation-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [0761-special-binary-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0761-special-binary-string/) | Hard |
 | [0796-rotate-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0796-rotate-string/) | Easy |
@@ -972,6 +974,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0413-arithmetic-slices](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0413-arithmetic-slices/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
@@ -1072,6 +1075,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
