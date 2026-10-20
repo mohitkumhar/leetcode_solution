@@ -121,6 +121,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0875-koko-eating-bananas](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0879-profitable-schemes/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0956-tallest-billboard/) | Hard |
@@ -432,6 +433,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0560-subarray-sum-equals-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
@@ -977,6 +979,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0567-permutation-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
