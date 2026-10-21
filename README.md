@@ -188,6 +188,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
@@ -913,6 +914,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
@@ -966,6 +968,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1943-describe-the-painting](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1943-describe-the-painting/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
