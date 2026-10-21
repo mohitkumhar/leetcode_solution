@@ -425,6 +425,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0140-word-break-ii/) | Hard |
+| [0146-lru-cache](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0205-isomorphic-strings/) | Easy |
@@ -1270,6 +1271,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0002-add-two-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0203-remove-linked-list-elements/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -1277,6 +1279,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
@@ -1353,6 +1356,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0146-lru-cache/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
