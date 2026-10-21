@@ -577,6 +577,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
