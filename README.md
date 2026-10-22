@@ -254,6 +254,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3898-find-the-degree-of-each-vertex](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
