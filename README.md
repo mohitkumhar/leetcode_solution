@@ -452,6 +452,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1156-swap-for-longest-repeated-character-substring/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
@@ -549,6 +550,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1096-brace-expansion-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1156-swap-for-longest-repeated-character-substring/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1208-get-equal-substrings-within-budget/) | Medium |
@@ -1013,6 +1015,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1156-swap-for-longest-repeated-character-substring/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
