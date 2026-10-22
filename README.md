@@ -454,6 +454,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1096-brace-expansion-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -554,6 +555,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1234-replace-the-substring-for-balanced-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1392-longest-happy-prefix/) | Hard |
@@ -1013,6 +1015,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1234-replace-the-substring-for-balanced-string/) | Medium |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
