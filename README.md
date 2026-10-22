@@ -217,6 +217,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3033-modify-the-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3033-modify-the-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -1035,6 +1036,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 ## Counting Sort
@@ -1145,6 +1147,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2305-fair-distribution-of-cookies/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
