@@ -212,6 +212,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -1036,6 +1037,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
