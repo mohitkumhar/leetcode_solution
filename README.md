@@ -36,6 +36,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0018-4sum/) | Medium |
@@ -923,6 +924,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
@@ -1124,6 +1126,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
