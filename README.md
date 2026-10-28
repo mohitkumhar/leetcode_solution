@@ -51,6 +51,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0046-permutations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
@@ -436,6 +437,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -522,6 +524,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0020-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/C/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
@@ -973,6 +976,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0015-3sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
