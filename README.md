@@ -430,6 +430,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -510,6 +511,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0010-regular-expression-matching/) | Hard |
@@ -1024,6 +1026,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0219-contains-duplicate-ii/) | Easy |
