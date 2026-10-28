@@ -1245,6 +1245,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0856-score-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
@@ -1348,6 +1349,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
