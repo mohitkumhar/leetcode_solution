@@ -75,6 +75,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0136-single-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0140-word-break-ii/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -853,6 +854,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
@@ -1248,6 +1250,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0225-implement-stack-using-queues/) | Easy |
