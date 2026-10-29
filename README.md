@@ -533,6 +533,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0049-group-anagrams](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
@@ -1247,6 +1248,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/C/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0071-simplify-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0143-reorder-list/) | Medium |
