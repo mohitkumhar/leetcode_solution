@@ -98,6 +98,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0283-move-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0377-combination-sum-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0377-combination-sum-iv/) | Medium |
@@ -461,6 +462,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -701,6 +703,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
@@ -760,6 +763,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
@@ -785,6 +789,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
 | [0761-special-binary-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0761-special-binary-string/) | Hard |
@@ -999,6 +1004,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -1455,6 +1461,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -1542,4 +1549,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0142-linked-list-cycle-ii/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
