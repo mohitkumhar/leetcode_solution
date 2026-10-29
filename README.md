@@ -1115,6 +1115,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0275-h-index-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -1553,4 +1554,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
