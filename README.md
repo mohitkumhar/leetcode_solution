@@ -121,6 +121,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0704-binary-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0835-image-overlap/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
@@ -1251,6 +1252,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -1270,6 +1272,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
