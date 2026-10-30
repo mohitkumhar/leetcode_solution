@@ -275,6 +275,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0100-same-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
+| [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
@@ -639,6 +640,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0100-same-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
+| [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -755,6 +757,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1496,6 +1499,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Geometry
