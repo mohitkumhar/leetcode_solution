@@ -255,6 +255,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -348,6 +349,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Dynamic Programming
@@ -439,6 +441,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3524-find-x-value-of-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
