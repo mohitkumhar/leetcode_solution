@@ -145,6 +145,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0999-available-captures-for-rook](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0999-available-captures-for-rook/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1046-last-stone-weight](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1109-corporate-flight-bookings/) | Medium |
@@ -795,6 +796,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1046-last-stone-weight](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
