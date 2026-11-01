@@ -84,6 +84,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
@@ -284,6 +285,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
+| [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
@@ -324,6 +326,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0079-word-search](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
+| [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
@@ -656,6 +659,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0110-balanced-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
+| [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
@@ -685,6 +689,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
