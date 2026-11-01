@@ -292,6 +292,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0301-remove-invalid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -669,6 +670,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -697,6 +699,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0547-number-of-provinces](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
@@ -716,6 +719,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
