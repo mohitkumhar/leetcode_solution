@@ -146,6 +146,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0983-minimum-cost-for-tickets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0983-minimum-cost-for-tickets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
+| [0997-find-the-town-judge](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0997-find-the-town-judge/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0999-available-captures-for-rook/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
@@ -499,6 +500,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [0997-find-the-town-judge](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0997-find-the-town-judge/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
@@ -719,6 +721,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0841-keys-and-rooms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0997-find-the-town-judge](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0997-find-the-town-judge/) | Easy |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
