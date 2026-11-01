@@ -109,6 +109,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0436-find-right-interval](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0436-find-right-interval/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0446-arithmetic-slices-ii-subsequence/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
@@ -912,6 +913,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
