@@ -247,6 +247,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3355-zero-array-transformation-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3356-zero-array-transformation-ii/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -912,6 +913,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3356-zero-array-transformation-ii/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -1163,6 +1165,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
