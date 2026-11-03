@@ -100,6 +100,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0283-move-zeroes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
@@ -294,6 +295,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
+| [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
@@ -397,6 +399,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0377-combination-sum-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
@@ -1520,6 +1523,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0879-profitable-schemes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0879-profitable-schemes/) | Hard |
 | [0956-tallest-billboard](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0956-tallest-billboard/) | Hard |
 ## 0-1 Knapsack
@@ -1676,4 +1680,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0973-k-closest-points-to-origin/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
