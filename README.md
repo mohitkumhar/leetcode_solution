@@ -111,6 +111,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0436-find-right-interval](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0436-find-right-interval/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
@@ -939,6 +940,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1082,6 +1084,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0436-find-right-interval](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0436-find-right-interval/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
