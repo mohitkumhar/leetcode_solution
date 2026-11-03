@@ -132,6 +132,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
 | [0733-flood-fill](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0835-image-overlap/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
@@ -410,6 +411,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
