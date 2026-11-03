@@ -1608,6 +1608,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
