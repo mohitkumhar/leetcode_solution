@@ -1685,4 +1685,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
