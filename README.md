@@ -1495,6 +1495,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -1698,5 +1699,6 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 <!---LeetCode Topics End-->
