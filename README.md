@@ -1700,6 +1700,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0834-sum-of-distances-in-tree/) | Hard |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
