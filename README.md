@@ -169,6 +169,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1402-reducing-dishes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
@@ -1117,6 +1118,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1235-maximum-profit-in-job-scheduling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -1236,6 +1238,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1208-get-equal-substrings-within-budget](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1539-kth-missing-positive-number/) | Easy |
@@ -1288,6 +1291,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
