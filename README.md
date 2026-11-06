@@ -685,6 +685,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -1330,6 +1331,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
