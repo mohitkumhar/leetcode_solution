@@ -545,6 +545,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1943-describe-the-painting](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1943-describe-the-painting/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1995-count-special-quadruplets/) | Easy |
 | [2421-number-of-good-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2421-number-of-good-paths/) | Hard |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2747-count-zero-request-servers/) | Medium |
@@ -668,6 +669,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2381-shifting-letters-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2381-shifting-letters-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -1216,6 +1218,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
