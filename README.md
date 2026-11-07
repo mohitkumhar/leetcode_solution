@@ -194,6 +194,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1854-maximum-population-year](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1854-maximum-population-year/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -871,6 +872,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1046-last-stone-weight](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2762-continuous-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2762-continuous-subarrays/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
