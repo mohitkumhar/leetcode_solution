@@ -1,15 +1,15 @@
-<h2><a href="https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities">2492. Minimum Score of a Path Between Two Cities</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>n</code> representing <code>n</code> cities numbered from <code>1</code> to <code>n</code>. You are also given a <strong>2D</strong> array <code>roads</code> where <code>roads[i] = [a<sub>i</sub>, b<sub>i</sub>, distance<sub>i</sub>]</code> indicates that there is a <strong>bidirectional </strong>road between cities <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code> with a distance equal to <code>distance<sub>i</sub></code>. The cities graph is not necessarily connected.</p>
+<h2><a href="https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/">2492. Minimum Score of a Path Between Two Cities</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>n</code> representing <code>n</code> cities numbered from <code>1</code> to <code>n</code>. You are also given a <strong>2D</strong> array <code>roads</code> where <code>roads[i] = [a<sub>i</sub>, b<sub>i</sub>, distance<sub>i</sub>]</code> indicates that there is a <strong>bidirectional </strong>road between cities <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code> with a distance equal to <code>distance<sub>i</sub></code>. The cities graph is not necessarily connected.</p>
 
 <p>The <strong>score</strong> of a path between two cities is defined as the <strong>minimum </strong>distance of a road in this path.</p>
 
-<p>Return <em>the <strong>minimum </strong>possible score of a path between cities </em><code>1</code><em> and </em><code>n</code>.</p>
+<p>Return the <strong>minimum </strong>possible score of a path between cities 1 and <code>n</code>.</p>
 
 <p><strong>Note</strong>:</p>
 
 <ul>
 	<li>A path is a sequence of roads between two cities.</li>
-	<li>It is allowed for a path to contain the same road <strong>multiple</strong> times, and you can visit cities <code>1</code> and <code>n</code> multiple times along the path.</li>
-	<li>The test cases are generated such that there is <strong>at least</strong> one path between <code>1</code> and <code>n</code>.</li>
+	<li>It is allowed for a path to contain the same road <strong>multiple</strong> times, and you can visit cities 1 and <code>n</code> multiple times along the path.</li>
+	<li>The test cases are generated such that there is <strong>at least</strong> one path between 1 and <code>n</code>.</li>
 </ul>
 
 <p>&nbsp;</p>
