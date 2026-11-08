@@ -164,6 +164,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1254-number-of-closed-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1260-shift-2d-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -317,6 +318,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0994-rotting-oranges](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -358,6 +360,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1219-path-with-maximum-gold](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1219-path-with-maximum-gold/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
@@ -718,6 +721,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0886-possible-bipartition](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -744,6 +748,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -795,6 +800,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1079-letter-tile-possibilities](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1854-maximum-population-year](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1854-maximum-population-year/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
