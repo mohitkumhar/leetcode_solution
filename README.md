@@ -196,6 +196,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1854-maximum-population-year](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1854-maximum-population-year/) | Easy |
+| [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -962,6 +963,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1854-maximum-population-year](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1854-maximum-population-year/) | Easy |
+| [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [1871-jump-game-vii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1871-jump-game-vii/) | Medium |
 | [1943-describe-the-painting](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1943-describe-the-painting/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -1451,6 +1453,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -1463,6 +1466,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -1793,4 +1797,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 <!---LeetCode Topics End-->
