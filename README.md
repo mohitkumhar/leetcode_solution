@@ -187,6 +187,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1695-maximum-erasure-value/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
@@ -1098,6 +1099,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -1448,6 +1450,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -1459,6 +1462,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
