@@ -185,6 +185,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -887,6 +888,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1046-last-stone-weight](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2762-continuous-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2762-continuous-subarrays/) | Medium |
@@ -1410,6 +1412,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0999-available-captures-for-rook](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0999-available-captures-for-rook/) | Easy |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
@@ -1572,6 +1575,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2762-continuous-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2762-continuous-subarrays/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
