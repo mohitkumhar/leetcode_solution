@@ -614,6 +614,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0344-reverse-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0388-longest-absolute-file-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0388-longest-absolute-file-path/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -708,6 +709,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0388-longest-absolute-file-path/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
@@ -1431,6 +1433,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0155-min-stack](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0225-implement-stack-using-queues/) | Easy |
+| [0388-longest-absolute-file-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0388-longest-absolute-file-path/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
