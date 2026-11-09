@@ -271,6 +271,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3525-find-x-value-of-array-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -572,6 +573,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -1122,6 +1124,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -1458,6 +1461,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1471,6 +1475,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
