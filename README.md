@@ -280,6 +280,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -482,6 +483,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
