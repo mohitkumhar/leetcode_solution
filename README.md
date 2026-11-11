@@ -143,6 +143,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0879-profitable-schemes/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0904-fruit-into-baskets/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0956-tallest-billboard/) | Hard |
@@ -442,6 +443,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0834-sum-of-distances-in-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0879-profitable-schemes/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0940-distinct-subsequences-ii/) | Hard |
@@ -1472,6 +1474,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -1498,6 +1501,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0496-next-greater-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
