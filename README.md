@@ -1052,6 +1052,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3870-count-commas-in-range/) | Easy |
@@ -1137,6 +1138,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
