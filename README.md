@@ -112,6 +112,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0436-find-right-interval](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0436-find-right-interval/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0456-132-pattern](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0456-132-pattern/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0472-concatenated-words/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0485-max-consecutive-ones/) | Easy |
@@ -1294,6 +1295,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
 | [0436-find-right-interval](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0436-find-right-interval/) | Medium |
+| [0456-132-pattern](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
@@ -1458,6 +1460,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0388-longest-absolute-file-path/) | Medium |
+| [0456-132-pattern](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0726-number-of-atoms](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0726-number-of-atoms/) | Hard |
 | [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
@@ -1484,6 +1487,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
+| [0456-132-pattern](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
@@ -1594,6 +1598,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0456-132-pattern](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
