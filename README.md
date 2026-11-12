@@ -238,6 +238,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2536-increment-submatrices-by-one/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2747-count-zero-request-servers/) | Medium |
@@ -911,6 +912,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2762-continuous-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2762-continuous-subarrays/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -1139,6 +1141,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1205,6 +1208,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2421-number-of-good-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2421-number-of-good-paths/) | Hard |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2751-robot-collisions/) | Hard |
