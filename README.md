@@ -692,6 +692,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1871-jump-game-vii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
@@ -1055,6 +1056,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
