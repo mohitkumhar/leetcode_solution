@@ -274,6 +274,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3356-zero-array-transformation-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3356-zero-array-transformation-ii/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -958,6 +959,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -1285,6 +1287,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -1508,6 +1511,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2751-robot-collisions](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2751-robot-collisions/) | Hard |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -1524,6 +1528,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -1768,12 +1773,14 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0622-design-circular-queue](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0622-design-circular-queue/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2762-continuous-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2762-continuous-subarrays/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0239-sliding-window-maximum/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2762-continuous-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2762-continuous-subarrays/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
