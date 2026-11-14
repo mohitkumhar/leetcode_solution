@@ -108,6 +108,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0377-combination-sum-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
@@ -327,6 +328,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
@@ -371,6 +373,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
@@ -916,6 +919,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
