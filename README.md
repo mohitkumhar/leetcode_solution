@@ -684,6 +684,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1392-longest-happy-prefix/) | Hard |
+| [1405-longest-happy-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1405-longest-happy-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1416-restore-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1416-restore-the-array/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -923,6 +924,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0973-k-closest-points-to-origin](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
+| [1405-longest-happy-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1792-maximum-average-pass-ratio](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1792-maximum-average-pass-ratio/) | Medium |
@@ -1149,6 +1151,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1402-reducing-dishes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
+| [1405-longest-happy-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1405-longest-happy-string/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
