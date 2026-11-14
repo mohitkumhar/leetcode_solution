@@ -48,6 +48,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0037-sudoku-solver](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
@@ -410,6 +411,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0010-regular-expression-matching](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
@@ -1394,6 +1396,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0018-4sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0125-valid-palindrome/) | Easy |
@@ -1505,6 +1508,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/C/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
@@ -1544,6 +1548,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0085-maximal-rectangle/) | Hard |
 | [0456-132-pattern](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0456-132-pattern/) | Medium |
