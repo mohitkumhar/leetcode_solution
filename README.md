@@ -581,6 +581,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1695-maximum-erasure-value/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1943-describe-the-painting](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1943-describe-the-painting/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1995-count-special-quadruplets/) | Easy |
@@ -705,6 +706,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1871-jump-game-vii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1871-jump-game-vii/) | Medium |
@@ -853,6 +855,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1267-count-servers-that-communicate](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1854-maximum-population-year](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1854-maximum-population-year/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
