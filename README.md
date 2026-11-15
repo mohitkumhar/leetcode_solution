@@ -187,6 +187,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -483,6 +484,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -1017,6 +1019,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1208-get-equal-substrings-within-budget](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -1072,6 +1075,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
