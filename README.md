@@ -267,6 +267,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3033-modify-the-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3033-modify-the-matrix/) | Easy |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -950,6 +951,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2542-maximum-subsequence-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2762-continuous-subarrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2762-continuous-subarrays/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -1504,6 +1506,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2751-robot-collisions](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2751-robot-collisions/) | Hard |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
