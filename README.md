@@ -725,6 +725,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
