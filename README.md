@@ -230,6 +230,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2197-replace-non-coprime-numbers-in-array/) | Hard |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -951,6 +952,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1834-single-threaded-cpu](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1834-single-threaded-cpu/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2530-maximal-score-after-applying-k-operations/) | Medium |
@@ -1188,6 +1190,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1962-remove-stones-to-minimize-the-total](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
