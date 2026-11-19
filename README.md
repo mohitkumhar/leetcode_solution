@@ -285,6 +285,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -963,6 +964,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
@@ -1280,6 +1282,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3536-maximum-product-of-two-digits/) | Easy |
