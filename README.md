@@ -229,6 +229,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2163-minimum-difference-in-sums-after-removal-of-elements/) | Hard |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -499,6 +500,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2163-minimum-difference-in-sums-after-removal-of-elements/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2305-fair-distribution-of-cookies/) | Medium |
@@ -954,6 +956,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1834-single-threaded-cpu](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1834-single-threaded-cpu/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2163-minimum-difference-in-sums-after-removal-of-elements/) | Hard |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
