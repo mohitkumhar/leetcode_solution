@@ -142,6 +142,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0739-daily-temperatures](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
+| [0832-flipping-an-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0835-image-overlap/) | Medium |
 | [0839-similar-string-groups](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0839-similar-string-groups/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0875-koko-eating-bananas/) | Medium |
@@ -385,6 +386,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0542-01-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0778-swim-in-rising-water/) | Hard |
+| [0832-flipping-an-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
@@ -1452,6 +1454,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0567-permutation-in-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0658-find-k-closest-elements/) | Medium |
+| [0832-flipping-an-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1048-longest-string-chain/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -1474,6 +1477,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0491-non-decreasing-subsequences/) | Medium |
+| [0832-flipping-an-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0980-unique-paths-iii/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
@@ -1521,6 +1525,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0067-add-binary](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0068-text-justification/) | Hard |
 | [0735-asteroid-collision](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0735-asteroid-collision/) | Medium |
+| [0832-flipping-an-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0832-flipping-an-image/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0999-available-captures-for-rook/) | Easy |
 | [1094-car-pooling](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
