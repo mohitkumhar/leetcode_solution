@@ -446,6 +446,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0174-dungeon-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
+| [0264-ugly-number-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
@@ -550,6 +551,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0219-contains-duplicate-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
+| [0264-ugly-number-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -937,6 +939,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0239-sliding-window-maximum/) | Hard |
+| [0264-ugly-number-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -1080,6 +1083,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0189-rotate-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
+| [0264-ugly-number-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
