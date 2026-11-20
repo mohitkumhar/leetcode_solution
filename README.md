@@ -270,6 +270,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3033-modify-the-matrix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3033-modify-the-matrix/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
@@ -507,6 +508,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -1283,6 +1285,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
