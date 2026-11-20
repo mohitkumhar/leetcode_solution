@@ -335,6 +335,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0133-clone-graph](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0407-trapping-rain-water-ii/) | Hard |
@@ -447,6 +448,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0198-house-robber](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0264-ugly-number-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
@@ -1085,6 +1087,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0224-basic-calculator](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0224-basic-calculator/) | Hard |
 | [0264-ugly-number-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0368-largest-divisible-subset/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -1757,6 +1760,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0879-profitable-schemes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0879-profitable-schemes/) | Hard |
@@ -1928,6 +1932,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
