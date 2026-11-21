@@ -243,6 +243,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2381-shifting-letters-ii/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2421-number-of-good-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2421-number-of-good-paths/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -1062,6 +1063,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2381-shifting-letters-ii/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2536-increment-submatrices-by-one](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2536-increment-submatrices-by-one/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
@@ -1216,6 +1218,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2530-maximal-score-after-applying-k-operations/) | Medium |
@@ -1289,6 +1292,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2421-number-of-good-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/2421-number-of-good-paths/) | Hard |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2542-maximum-subsequence-score/) | Medium |
@@ -1426,6 +1430,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
