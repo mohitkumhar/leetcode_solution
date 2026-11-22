@@ -201,6 +201,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1695-maximum-erasure-value/) | Medium |
+| [1705-maximum-number-of-eaten-apples](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1765-map-of-highest-peak/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1792-maximum-average-pass-ratio/) | Medium |
@@ -970,6 +971,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1405-longest-happy-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1705-maximum-number-of-eaten-apples](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1792-maximum-average-pass-ratio/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1834-single-threaded-cpu/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1882-process-tasks-using-servers/) | Medium |
@@ -1209,6 +1211,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1673-find-the-most-competitive-subsequence/) | Medium |
+| [1705-maximum-number-of-eaten-apples](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1792-maximum-average-pass-ratio/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
