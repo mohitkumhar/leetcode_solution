@@ -180,6 +180,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1301-number-of-paths-with-max-score](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1402-reducing-dishes](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
@@ -1053,6 +1054,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [1109-corporate-flight-bookings](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1140-stone-game-ii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1208-get-equal-substrings-within-budget/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -1111,6 +1113,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0877-stone-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1510-stone-game-iv/) | Hard |
@@ -1721,6 +1724,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0731-my-calendar-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0732-my-calendar-iii/) | Hard |
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1728,6 +1732,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
