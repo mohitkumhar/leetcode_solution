@@ -292,6 +292,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3356-zero-array-transformation-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3356-zero-array-transformation-ii/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
@@ -1135,6 +1136,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -1188,6 +1190,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -1380,6 +1383,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting Sort
@@ -1542,6 +1546,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3312-sorted-gcd-pair-queries](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
