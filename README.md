@@ -49,6 +49,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0040-combination-sum-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
@@ -432,6 +433,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [0022-generate-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
@@ -1201,6 +1203,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/0410-split-array-largest-sum/) | Hard |
