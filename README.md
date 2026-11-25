@@ -331,6 +331,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3898-find-the-degree-of-each-vertex](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -642,6 +643,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1459,6 +1461,7 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohitkumhar/leetcode_solution/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3620-network-recovery-pathways/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1656,10 +1659,12 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1392-longest-happy-prefix/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/1392-longest-happy-prefix/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1992,4 +1997,8 @@ Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mohitkumhar)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/2197-replace-non-coprime-numbers-in-array/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/mohitkumhar/leetcode_solution/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
